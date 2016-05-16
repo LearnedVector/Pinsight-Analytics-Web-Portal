@@ -12,7 +12,7 @@ This project is built for [Pinsight Media](https://pinsightmedia.com/) a Subsidi
 To run, download the repo. Go into project directory and type in npm install then npm run dev to start the app
 
 ```
-    > git clone git@git.assembla.com:application-analytics-web-portal-umkc.git
+    > git clone git@github.com:Mn0491/Pinsight-Analytics-Web-Portal.git
     > cd Pinsight-Analytics-Web-Portal
     > npm install
     > npm run dev
