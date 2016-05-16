@@ -46,7 +46,7 @@ This list will continue to grow as the project grows
 - Webpack
 - Babel
 
-## Motivation
+## Motivations
 
 - Dashboard should be able to convey to the Publishers the user's behavior quickly and effectively 
 - Data Visualizations from analytics should enable Publishers to grasp difficult concepts or identify new patterns
