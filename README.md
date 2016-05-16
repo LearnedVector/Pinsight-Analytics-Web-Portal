@@ -29,7 +29,7 @@ This list will continue to grow as the project grows
 #### Front-End
 
 - React
-- redux
+- Redux
 - Chartist.js
 - Flexbox
 - Various Helper & Utility Libraries
