@@ -1,6 +1,6 @@
 ## Synopsis
 
-This project is built for Pinsight Media. It is a web portal that will provide analytics to app publishers with data points to help determine user behaviors. Built with [React](https://facebook.github.io/react/) & [redux](https://github.com/reactjs/redux) in the front end and [GraphQL](http://graphql.org/docs/getting-started/) in the back with a Node server. It is an Isomorphic (Universal) JavaScript Application using ES6/ES2015 syntax and following the [Flux](https://facebook.github.io/flux/) Architecture.
+This project is built for Pinsight Media a Subsidiary of [Sprint](https://www.sprint.com/). It is a web portal that will provide analytics to app publishers with data points to help determine user behaviors. Built with [React](https://facebook.github.io/react/) & [redux](https://github.com/reactjs/redux) in the front end and [GraphQL](http://graphql.org/docs/getting-started/) in the back with a Node server. It is an Isomorphic (Universal) JavaScript Application using ES6/ES2015 syntax and following the [Flux](https://facebook.github.io/flux/) Architecture.
 
 ##Images
 ![Alt text](/READMEimages/App1.jpeg?raw=true "Users")
