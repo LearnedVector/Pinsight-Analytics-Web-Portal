@@ -13,7 +13,7 @@ To run, download the repo. Go into project directory and type in npm install the
 
 ```
     > git clone git@git.assembla.com:application-analytics-web-portal-umkc.git
-    > cd WebPortal
+    > cd Pinsight-Analytics-Web-Portal
     > npm install
     > npm run dev
 ```
